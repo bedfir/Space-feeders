@@ -868,6 +868,7 @@ identifiant et mot de passe. Sur un site internet respecter le système : ce que
    - Il faut également s'assurer de la sécurité du DNS. Le Domain Name System ou DNS est un service informatique distribué utilisé qui traduit les noms de domaine Internet en adresse IP ou autres enregistrements. Le DNS simplifie la navigation sur internet, cela nous permet de ne pas apprendre ou retenir les adresse ip de chaque site internet. 
    
  </details>
+
 ## Sources
 
 - Guide ANSSI: RECOMMANDATIONS POUR LA MISE EN ŒUVRE D'UN SITE WEB : MAÎTRISER LES STANDARDS DE SÉCURITÉ CÔTÉ NAVIGATEUR:
